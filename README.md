@@ -1,6 +1,6 @@
 # Nsebo
 #### Front-End student 
-I'm Nsebo! I'm a former Nursing graduate and health-worker. I'm currently a Front-end student at Noroff - school of technology and digital media. So far in my journey as Front-End student, i have learnt HTML, CSS and JavaScript and some Ui/Ux design.
+I'm Nsebo! I'm a Nursing graduate and former health-worker. I'm currently a Front-end student at Noroff - school of technology and digital media. So far in my journey as Front-End student, i have learnt HTML, CSS and JavaScript and some UI/UX design.
 
 - 😄 Pronouns: she/her 
 - 💻 I’m looking for help with CSS 
