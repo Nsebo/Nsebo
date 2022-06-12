@@ -5,6 +5,7 @@ I'm Nsebo! I'm a Nursing graduate and former health-worker. I'm currently a Fron
 - 😄 Pronouns: she/her 
 - 💻 I’m looking for help with CSS 
 - 💻 I’m currently learning JS 
+- 💻 I’m currently working on my portfoilo
 
 ## Skills
 * 💻 HTML, CSS, JS
