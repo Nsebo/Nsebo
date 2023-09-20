@@ -11,15 +11,19 @@
 
 - 🌱 I’m currently learning Javascript **React**
 
+- 👨‍💻 All of my projects are available at [https://brilliant-panda-bf2eca.netlify.app/](https://brilliant-panda-bf2eca.netlify.app/)
+
+- 💬 Ask me about **Anything...**
+
 - 📫 How to reach me **uzo.oloh@gmail.com**
 
-- ⚡ Fun fact **Food lover, love to cook and I love everything about food and cooking....**
+- ⚡ Fun fact **Food lover. Gym rat.I love everything about food and cooking.... Just give me food ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@nsebo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nsebo" height="30" width="40" /></a>
 <a href="https://twitter.com/ceyoloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ceyoloh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uzochukwu ceilia oloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uzochukwu ceilia oloh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/uzochukwu-cecilia-oloh-0763331b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/uzochukwu-cecilia-oloh-0763331b6/" height="30" width="40" /></a>
 <a href="https://fb.com/uzochukwu ceilia klemetsrud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uzochukwu ceilia klemetsrud" height="30" width="40" /></a>
 <a href="https://dribbble.com/uzochukwu cecilia oloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="uzochukwu cecilia oloh" height="30" width="40" /></a>
 <a href="https://medium.com/@nsebo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nsebo" height="30" width="40" /></a>
