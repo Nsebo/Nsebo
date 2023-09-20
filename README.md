@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nsebo</h1>
-<h3 align="center">A nursing graduate and former health worker. I'm Currently a Jr.Frontend Developer with some design knowledge.</h3>
+<h3 align="center">A nursing graduate and a health worker. I'm Currently a Jr.Frontend Developer with some design knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsebo&label=Profile%20views&color=0e75b6&style=flat" alt="nsebo" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **uzo.oloh@gmail.com**
 
-- ⚡ Fun fact **Food lover, love to cook and I love everything about cooking....**
+- ⚡ Fun fact **Food lover, love to cook and I love everything about food and cooking....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
