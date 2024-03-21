@@ -8,11 +8,11 @@ I am a Junior Frontend Developer with a background in design, holding a degree i
 
 <p align="left"> <a href="https://twitter.com/ceyoloh" target="blank"><img src="https://img.shields.io/twitter/follow/ceyoloh?logo=twitter&style=for-the-badge" alt="ceyoloh" /></a> </p>
 
-- 🔭 I’m currently working on my portfolio [Portfolio 2](https://brilliant-panda-bf2eca.netlify.app/)
+- 🔭 I’m currently working on my portfolio [Portfolio - work in progress](https://heartfelt-cobbler-e898fd.netlify.app/)
 
 - 🌱 I’m currently learning Javascript **React**
 
-- 👨‍💻 All of my projects are available at [https://brilliant-panda-bf2eca.netlify.app/](https://brilliant-panda-bf2eca.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://heartfelt-cobbler-e898fd.netlify.app/](https://heartfelt-cobbler-e898fd.netlify.app/)
 
 - 💬 Ask me about **Anything...**
 
