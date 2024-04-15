@@ -10,7 +10,7 @@ I am a Junior Frontend Developer with a background in design, holding a degree i
 
 - 🔭 I’m currently working on my portfolio [Portfolio - work in progress](https://heartfelt-cobbler-e898fd.netlify.app/)
 
-- 🌱 I’m currently learning Javascript **React**
+- 🌱 I’m currently learning Javascript **Backend**
 
 - 👨‍💻 All of my projects are available at [https://heartfelt-cobbler-e898fd.netlify.app/](https://heartfelt-cobbler-e898fd.netlify.app/)
 
@@ -18,7 +18,7 @@ I am a Junior Frontend Developer with a background in design, holding a degree i
 
 - 📫 How to reach me **uzo.oloh@gmail.com**
 
-- ⚡ Fun fact **Food lover. Gym rat.I love everything about food and cooking.... Just give me food ;)**
+- ⚡ Fun fact **Food lover. Gym rat. I love everything about food and cooking.... Just give me food ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
