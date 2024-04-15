@@ -10,7 +10,7 @@ I am a Junior Frontend Developer with a background in design, holding a degree i
 
 - 🔭 I’m currently working on my portfolio [Portfolio - work in progress](https://heartfelt-cobbler-e898fd.netlify.app/)
 
-- 🌱 I’m currently learning Javascript **Backend**
+- 🌱 I’m currently learning Javascript **React**
 
 - 👨‍💻 All of my projects are available at [https://heartfelt-cobbler-e898fd.netlify.app/](https://heartfelt-cobbler-e898fd.netlify.app/)
 
