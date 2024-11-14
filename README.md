@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nsebo</h1>
 <h3 align="center">
-I am a Frontend Developer with a background in design, holding a degree in nursing and having previously worked in healthcare.</h3>
+I’m a healthcare professional turned frontend developer, blending years of patient care experience with a passion for web development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsebo&label=Profile%20views&color=0e75b6&style=flat" alt="nsebo" /> </p>
 
